@@ -4,7 +4,7 @@
 
   <groupId>com.hcl.interviews</groupId>
   <artifactId>NumberNames</artifactId>
-  <version>0.0.3-RELEASE</version>
+  <version>0.0.4-RELEASE</version>
   <packaging>jar</packaging>
 
   <name>NumberNames</name>
@@ -22,10 +22,10 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-<distributionManagement>
+<!--<distributionManagement>
   <repository>
     <id>releases</id>
     <url>http://54.255.203.220:8081/nexus/content/repositories/releases</url>
   </repository>
-</distributionManagement>
+</distributionManagement>-->
 </project>
