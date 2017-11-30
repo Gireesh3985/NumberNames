@@ -5,7 +5,7 @@
   <groupId>com.hcl.interviews</groupId>
   <artifactId>NumberNames</artifactId>
   <version>0.0.4-RELEASE</version>
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
 
   <name>NumberNames</name>
   <url>http://maven.apache.org</url>
